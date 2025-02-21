@@ -17,6 +17,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PaySlingexe) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# What i'm listening to right now.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kvk5kbs1fav3zndeztxlaeubr&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
